@@ -1,0 +1,1 @@
+RoutingFailed = Class.new(StandardError)
