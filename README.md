@@ -31,3 +31,6 @@ https://gorails.com/setup/ubuntu/20.04
 ### Run tests
 
 ``bundle exec rspec``
+
+### Postman collection
+[Postman collection](InWallet.postman_collection.json)
